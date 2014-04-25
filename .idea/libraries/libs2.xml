@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fatesCore/libs/google-play-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fatesCore/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fatesCore/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fatesCore/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fatesCore/libs/android-support-v13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
